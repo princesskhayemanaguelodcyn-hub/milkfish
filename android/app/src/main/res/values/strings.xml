@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bangus Freshness</string>
+    <string name="pick_image">Pick image</string>
+    <string name="classify">Classify</string>
+    <string name="server_url_hint">Server URL</string>
+    <string name="result_label">Result</string>
+    <string name="confidence">Confidence</string>
+</resources>
